@@ -1,0 +1,108 @@
+/* header */
+body{
+    font-family:Montserrat:400,700';
+    margin:0px;
+    padding: 0px;
+}
+*{
+    outline: 1px solid green
+}
+h1{
+    text-align: center;
+    color:  midnightblue;
+}
+.list-menu{
+    list-style: none;
+    text-align: center;
+}
+.list-menu li{
+    display: inline-block;
+    
+}
+.list-menu a{
+ margin-left: 50px;
+
+}
+
+
+/* hero section */
+.letra{
+    background: url(../img/dance_1.jpg);
+    height: 480px;   
+}
+
+.letra .lg{
+    font-size: 50px;
+    
+}
+
+.letra .lg ,p {
+    color: white;
+    padding: 50px  90px 0px 90px;   
+}
+.medio{
+    background:url(../img/textura_2.jpg);
+    
+}
+h4 {
+    text-align: center;
+    font-size: 20px;
+    padding-top: 30px;
+}
+.medio .fondo{
+    position: relative;
+    left: 720px;
+}
+.boton {
+    text-align: center;
+  
+    
+}
+.boton button{
+ background: midnightblue;
+ color: white;
+ padding:20px 80px; 
+ font-size: 20px;
+ border-radius: 10%;
+}
+.fixed .uno{
+   background:url(../img/instructor_4.jpg);
+    background-size: 100%;
+   height: 500px;
+   
+}
+.fixed .dos{
+   background:url(../img/profesor_9.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+   height: 500px;
+   
+
+}
+
+h2{
+    text-align: center;
+    padding: 100px;
+    margin: 0px;
+}
+.mapa{
+    background:  midnightblue;
+    padding: 40px;
+
+    
+}
+
+.mapa h3{
+    color: white;
+    padding: 30px 0 20px 80px;
+}
+
+.mapa p{
+    padding: 10px  0px  0px 80px;
+}
+
+
+
+
+
+/* Inserta tu codigo aqui */
