@@ -1,1 +1,28 @@
 /* Inserta tu codigo aqui */
+*{
+	outline:1px solid red;
+}
+.imagen,img{
+	width:280px;
+	height:350px;
+}
+.imagen img{
+	margin:0 auto;
+}
+.cuadro{
+	width:250px;
+	
+}
+.imagen>div{
+	color:white;
+	background-color:black;
+	opacity:0.5;
+	position:relative;
+	top:-200px;
+	left:15px;
+	text-align: center;
+	padding:10px;
+}
+.columna{
+	margin:20px 180px;
+}/* Inserta tu codigo aqui */

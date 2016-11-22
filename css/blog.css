@@ -1,1 +1,24 @@
 /* Inserta tu codigo aqui */
+section  {
+    background:  #F2F2F2;
+    
+}
+
+.col-md-8{
+    background: #CECED4;
+    padding-bottom: 14.5px;
+    margin-bottom:50px;
+  
+    
+}
+.col-md-4 img{
+    height: 250px;
+    width: 375px;
+}
+h4{
+    text-align: center;
+}
+  
+.col-md-8 h5{
+    color:gainsboro;
+}

@@ -1,9 +1,12 @@
 /* Inserta tu codigo que es común para todas las páginas aqui */
 
 
-*{
-    outline: 1px solid pink;
+body{
+    font-family:Montserrat:400,700';
+    margin:0px;
+    padding: 0px;
 }
+
 h1{
     text-align: center;
     color:  midnightblue;
@@ -21,11 +24,13 @@ h1{
 
 }
 
+
+
 .boton button{
  background: midnightblue;
  color: white;
  padding:20px 80px; 
  font-size: 20px;
- border-radius: 10%;
+ border-radius: 7px;
 }
 
