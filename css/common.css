@@ -1,1 +1,31 @@
 /* Inserta tu codigo que es común para todas las páginas aqui */
+
+
+*{
+    outline: 1px solid pink;
+}
+h1{
+    text-align: center;
+    color:  midnightblue;
+}
+.list-menu{
+    list-style: none;
+    text-align: center;
+}
+.list-menu li{
+    display: inline-block;
+    
+}
+.list-menu a{
+ margin-left: 50px;
+
+}
+
+.boton button{
+ background: midnightblue;
+ color: white;
+ padding:20px 80px; 
+ font-size: 20px;
+ border-radius: 10%;
+}
+

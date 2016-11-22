@@ -5,7 +5,7 @@ body{
     padding: 0px;
 }
 *{
-    outline: 1px solid green
+    outline: 1px solid pink;
 }
 h1{
     text-align: center;
@@ -31,10 +31,11 @@ h1{
     height: 480px;   
 }
 
-.letra .lg{
+.letra .lg {
     font-size: 50px;
     position: relative;
-    right: 500px;
+    right:600px;
+    color: white;
     
 }
 
@@ -42,7 +43,7 @@ h1{
     color: white;
     padding: 50px  90px 0px 90px;   
 }
-.medio{
+.medio , .profesores{
     background:url(../img/textura_2.jpg);
     
 }
@@ -51,14 +52,33 @@ h4 {
     font-size: 20px;
     padding-top: 30px;
 }
+.medio p{
+    color: black;
+    font-size: 20px;
+    text-align: center
+}
 .medio .fondo{
     position: relative;
-    left: 720px;
+    left: 710px;
 }
 .boton {
     text-align: center;
   
     
+}
+
+.boton .izw{
+    position: relative;
+    right:600px;
+    margin-top: 30px;
+}
+.boton .oferta{
+    margin-bottom: 50px;
+    
+}
+.boton .instructores{
+  position: relative; 
+    top: -70px;
 }
 .boton button{
  background: midnightblue;
@@ -67,26 +87,28 @@ h4 {
  font-size: 20px;
  border-radius: 10%;
 }
-.fixed .uno{
+.profesores .col-md-6{
+    padding: 0px;
+}
+.profesores .uno{
    background:url(../img/instructor_4.jpg);
-    background-size: 100%;
+   background-size: 100%;
    height: 500px;
+   border:1px solid midnightblue;
    
 }
-.fixed .dos{
+.profesores .dos{
    background:url(../img/profesor_9.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
     height: 500px;
     border:1px solid midnightblue;
-   
-
 }
 
 h2{
-    text-align: center;
     padding: 100px;
     margin: 0px;
+    text-align: center;
 }
 .mapa{
     background:  midnightblue;
@@ -103,6 +125,16 @@ h2{
 .mapa p{
     padding: 10px  0px  0px 80px;
 }
+
+.contactanos .container{
+    background: url(../img/shoes_1.jpg);
+    background-repeat: no-repeat;
+    height: 500px;
+    position: relative;
+    left: 600px;
+    
+}
+
 
 
 
