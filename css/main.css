@@ -4,9 +4,7 @@ body{
     margin:0px;
     padding: 0px;
 }
-*{
-    outline: 1px solid pink;
-}
+
 h1{
     text-align: center;
     color:  midnightblue;
@@ -34,7 +32,7 @@ h1{
 .letra .lg {
     font-size: 50px;
     position: relative;
-    right:600px;
+    right:500px;
     color: white;
     
 }
@@ -59,7 +57,7 @@ h4 {
 }
 .medio .fondo{
     position: relative;
-    left: 710px;
+    left:630px;
 }
 .boton {
     text-align: center;
@@ -69,7 +67,7 @@ h4 {
 
 .boton .izw{
     position: relative;
-    right:600px;
+    right:500px;
     margin-top: 30px;
 }
 .boton .oferta{
@@ -126,15 +124,8 @@ h2{
     padding: 10px  0px  0px 80px;
 }
 
-.contactanos .container{
-    background: url(../img/shoes_1.jpg);
-    background-repeat: no-repeat;
-    height: 500px;
-    position: relative;
-    left: 600px;
-    
-}
 
+    
 
 
 
